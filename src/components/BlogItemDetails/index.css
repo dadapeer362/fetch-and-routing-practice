@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.blog-info {
+  margin: 20px;
+}
+
+.author-details {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
+
+.details-author-name {
+  font-weight: bold;
+  margin-top: 40px;
+  font-size: 25px;
+  margin-left: 15px;
+  color: red;
+}
+
+.author-pic {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.blog-details-title {
+  color: brown;
+  font-weight: bold;
+}
+
+.blog-image {
+  width: 60%;
+  height: 40%;
+}
+
+.blog-content {
+  flex-wrap: wrap;
+  width: 100%;
+  font-size: 20px;
+}

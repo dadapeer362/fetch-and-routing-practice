@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.img-style {
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+}
+
+.blog-container {
+  border-color: green;
+  border-style: solid;
+  border-width: 3px;
+  margin: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.img-avatar-style {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.avatar-author {
+  display: flex;
+  flex-direction: row;
+}
+
+.para-1 {
+  font-weight: bold;
+  color: red;
+}
+
+.para-2 {
+  font-weight: bold;
+  color: green;
+}
